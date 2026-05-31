@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsstringify",
+        "uuid": 7662412,
+        "checksum": "ei5bkn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
